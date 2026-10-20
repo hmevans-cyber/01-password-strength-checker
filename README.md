@@ -1,4 +1,4 @@
-# 01-password-strength-checker
+# Password-Strength-Checker
 # 🔐 Password Strength & Security Analyzer
 
 ## 📌 Overview
